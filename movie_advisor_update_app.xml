@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Movie Advisor</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:version>1.0.0</sparkle:version>
+            <enclosure url="https://google.com" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:version>1.0.0</sparkle:version>
+            <enclosure url="https://google.com" sparkle:os="iOS" />
+        </item>
+    </channel>
+</rss>
