@@ -5,12 +5,12 @@
         <item>
             <title>Version 1.0.0</title>
             <sparkle:version>1.0.0</sparkle:version>
-            <enclosure url="https://google.com" sparkle:os="android" />
+            <enclosure url="https://github.com/valeriinov/movie_advisor.git" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.0.0</title>
             <sparkle:version>1.0.0</sparkle:version>
-            <enclosure url="https://google.com" sparkle:os="iOS" />
+            <enclosure url="https://github.com/valeriinov/movie_advisor.git" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
