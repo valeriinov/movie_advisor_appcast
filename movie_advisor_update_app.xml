@@ -3,13 +3,13 @@
     <channel>
         <title>Movie Advisor</title>
         <item>
-            <title>Version 1.0.0</title>
-            <sparkle:version>1.0.0</sparkle:version>
-            <enclosure url="https://github.com/valeriinov/movie_advisor.git" sparkle:os="android" />
+            <title>Version 1.1.1</title>
+            <sparkle:version>1.1.1</sparkle:version>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.movieadvisor.app" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.0</title>
-            <sparkle:version>1.0.0</sparkle:version>
+            <title>Version 1.1.1</title>
+            <sparkle:version>1.1.1</sparkle:version>
             <enclosure url="https://github.com/valeriinov/movie_advisor.git" sparkle:os="iOS" />
         </item>
     </channel>
