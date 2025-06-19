@@ -3,13 +3,13 @@
     <channel>
         <title>Movie Advisor</title>
         <item>
-            <title>Version 1.1.6</title>
-            <sparkle:version>1.1.6</sparkle:version>
+            <title>Version 1.1.7</title>
+            <sparkle:version>1.1.7</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=com.movieadvisor.app" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.1.6</title>
-            <sparkle:version>1.1.6</sparkle:version>
+            <title>Version 1.1.7</title>
+            <sparkle:version>1.1.7</sparkle:version>
             <enclosure url="https://apps.apple.com/app/id6744888867" sparkle:os="iOS" />
         </item>
     </channel>
